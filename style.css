@@ -1,0 +1,28 @@
+body {
+    color: whitesmoke !important;
+    background-color: #23272A !important;
+    margin-top: 20px !important;
+    text-align: center !important;
+}
+
+img {
+    border-radius: 50%;
+    max-width: 330px;
+    max-height: 330px;
+    border-style: inset;
+    border-color: #ffffff;
+}
+
+a {
+    text-decoration: none !important;
+    font-size: 20px;
+    color: whitesmoke !important;
+}
+
+section {
+    background-color: #5865F2;
+    border-radius: 10px;
+    max-width: 300px;
+    margin: auto;
+    padding: 15px;
+}
